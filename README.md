@@ -13,7 +13,8 @@
 
 ## Prerequisite: 
 
-+ [Download , install and configure AWS Command Line Interface](http://docs.aws.amazon.com/cli/latest/userguide/installing.html) + Verify that your VM satisfies the [prerequisites for VM import](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/VMImportPrerequisites.html), prepare it for import, and export it from its current environment as an OVA file ( or VMDK, VHD, or RAW)
++ [Download , install and configure AWS Command Line Interface](http://docs.aws.amazon.com/cli/latest/userguide/installing.html) 
++ Verify that your VM satisfies the [prerequisites for VM import](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/VMImportPrerequisites.html), prepare it for import, and export it from its current environment as an OVA file ( or VMDK, VHD, or RAW)
 + Create an IAM role names **vmimport**. For more information, see [Required Service Role](https://docs.aws.amazon.com/vm-import/latest/userguide/vmie_prereqs.html#vmimport-role)
 
 ## VM Import/Export Steps:
