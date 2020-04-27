@@ -8,7 +8,7 @@
 
 # Infrastructure Diagram
 
-![Vm-import-export](./VM-import-export.png)
+![Vm-import-export](./infrastructure-diagram.png)
 
 
 ## Prerequisite: 
