@@ -1,0 +1,1 @@
+aws iam create-role --role-name vmimport --assume-role-policy-document "file://C:\Users\ASUS\Desktop\AWSMigration\trust-policy.json"

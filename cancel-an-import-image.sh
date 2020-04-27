@@ -1,0 +1,1 @@
+aws ec2 cancel-import-task --import-task-id import-ami-1234567890abcdef0

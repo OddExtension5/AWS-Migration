@@ -1,0 +1,1 @@
+aws ec2 import-image --description "CDv3 VM" --license-type BYOL --disk-containers "file://C:\Users\ASUS\Desktop\AWSMigration\containers.json"

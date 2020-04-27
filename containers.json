@@ -1,0 +1,9 @@
+[
+    {
+      "Description": "CDv3 OVA",
+      "Format": "ova",
+      "UserBucket": {
+          "S3Bucket": "cdv3",
+          "S3Key": "cdv3.ova"
+      }
+  }]

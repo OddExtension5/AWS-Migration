@@ -1,0 +1,1 @@
+aws ec2 describe-import-image-tasks --import-task-ids import-ami-06ac65575644ceab9

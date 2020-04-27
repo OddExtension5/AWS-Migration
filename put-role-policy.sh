@@ -1,0 +1,1 @@
+aws iam put-role-policy --role-name vmimport --policy-name vmimport --policy-document "file://C:\Users\ASUS\Desktop\AWSMigration\role-policy.json"
